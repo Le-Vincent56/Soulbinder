@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/Arial16.spritefont</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/basicAttack.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/Boss.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/Boss2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/CastleBG.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/CastleTopBG.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/DarkBrick.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/DarkBrickFloor.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/DarkGray.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/DarkGrayFloor.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/Deflection.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/DungeonBG.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerHorizontalHighV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerHorizontalLowV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerHorizontalMidV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerIdleV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerSlamV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/ExecutionerVerticalV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/FireDash.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/FistHand.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/FistHandFlipped.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/GameOver.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LightBrick.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LightBrickFloor.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LightGray.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LightGrayFloor.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LitchBackground.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LitchHead.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/LitchShot.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/mageSprite.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/MissingTexture.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/OpenHand.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/OpenHandReversed.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/Rock.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/SkeletonV2.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/StatueDashSlash.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/StatueIdle.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/StatueStab.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/StatueStepBack.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/StatueThrow.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/TitleNoText.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/TitleScreen.png</File>
+    <File>C:/Users/levin/Source/Repos/Soulbinder/Soulbinder/Content/WhitePixel.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>BasicAttack.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Mage.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
